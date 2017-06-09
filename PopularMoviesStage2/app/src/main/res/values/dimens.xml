@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="progress_bar_width">42dp</dimen>
+    <dimen name="progress_bar_height">42dp</dimen>
+
+    <dimen name="movie_recyclerview_marginleft">8dp</dimen>
+    <dimen name="movie_recyclerview_marginRight">8dp</dimen>
+
+    <dimen name="movie_grid_card_elevation">6dp</dimen>
+    <dimen name="movie_review_item_padding">8dp</dimen>
+    <dimen name="trailer_play_button_height">40dp</dimen>
+    <dimen name="trailer_share_button_height">20dp</dimen>
+
+    <dimen name="plot_overview_padding">16dp</dimen>
+    <dimen name="plot_heading_textsize">16sp</dimen>
+
+    <dimen name="main_error_msg_padding">16dp</dimen>
+    <dimen name="main_error_msg_textsize">20sp</dimen>
+
+    <dimen name="poster_details_paddingRight">8dp</dimen>
+    <dimen name="poster_details_paddingTop">8dp</dimen>
+    <dimen name="poster_details_paddingBottom">8dp</dimen>
+    <dimen name="poster_width">100dp</dimen>
+    <dimen name="poster_height">160dp</dimen>
+
+    <dimen name="title_textsize">16sp</dimen>
+    <dimen name="rating_icon_height">20dp</dimen>
+    <dimen name="release_date_icon_height">20dp</dimen>
+    <dimen name="rating_textsize">16sp</dimen>
+    <dimen name="release_date_textsize">16sp</dimen>
+    <dimen name="trailers_header_textsize">16sp</dimen>
+    <dimen name="reviews_header_textsize">16sp</dimen>
+
+    <dimen name="default_textsize">14sp</dimen>
+
+</resources>

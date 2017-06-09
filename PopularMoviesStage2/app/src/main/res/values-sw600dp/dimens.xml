@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="progress_bar_width">60dp</dimen>
+    <dimen name="progress_bar_height">60dp</dimen>
+
+    <dimen name="main_error_msg_padding">16dp</dimen>
+    <dimen name="main_error_msg_textsize">24sp</dimen>
+
+    <dimen name="poster_width">160dp</dimen>
+    <dimen name="poster_height">240dp</dimen>
+
+    <dimen name="title_textsize">20sp</dimen>
+    <dimen name="rating_icon_height">30dp</dimen>
+    <dimen name="release_date_icon_height">30dp</dimen>
+    <dimen name="rating_textsize">20sp</dimen>
+    <dimen name="release_date_textsize">20sp</dimen>
+
+    <dimen name="plot_heading_textsize">20sp</dimen>
+    <dimen name="trailers_header_textsize">20sp</dimen>
+    <dimen name="reviews_header_textsize">20sp</dimen>
+
+    <dimen name="default_textsize">16sp</dimen>
+</resources>

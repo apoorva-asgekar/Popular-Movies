@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:id="@+id/ll_trailer_reviews"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_trailers_heading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="16dp"
+            android:text="@string/trailers_heading"
+            android:textSize="@dimen/trailers_header_textsize"
+            android:textStyle="bold"
+            tools:text="@string/trailers_heading" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerview_trailers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="8dp" />
+
+        <TextView
+            android:id="@+id/tv_reviews_heading"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="16dp"
+            android:text="@string/reviews_heading"
+            android:textSize="@dimen/reviews_header_textsize"
+            android:textStyle="bold"
+            tools:text="@string/reviews_heading" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerview_reviews"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="8dp" />
+    </LinearLayout>
+</layout>

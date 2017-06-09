@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Movie Mania</string>
+
+    <!--Error message when no data is found-->
+    <string name="error_message">Error fetching data! Please try again.</string>
+
+    <!--Menu item name for Settings-->
+    <string name="settings">Settings</string>
+
+    <!--List Preference Movie Sort Order labels-->
+    <string name="pref_sort_key" translatable="false">sortPreference</string>
+    <string name="pref_sort_title">Sort movies by?</string>
+    <string name="pref_sort_popular_label">Popularity</string>
+    <string name="pref_sort_popular_value" translatable="false">popular</string>
+    <string name="pref_sort_ratings_label">Ratings</string>
+    <string name="pref_sort_ratings_value" translatable="false">ratings</string>
+    <string name="pref_sort_favourites_label">Favourites</string>
+    <string name="pref_sort_favourites_value" translatable="false">favourites</string>
+
+    <string name="trailers_key" translatable="false">trailers</string>
+    <string name="reviews_key" translatable="false">reviews</string>
+
+    <string name="trailers_heading">Trailers</string>
+    <string name="reviews_heading">Reviews</string>
+
+    <string name="no_network_message">No network connection! Displaying favourites.</string>
+    <string name="favourite_saved">Favourite saved!</string>
+    <string name="favourite_deleted">Favourite deleted!</string>
+
+</resources>
